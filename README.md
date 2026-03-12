@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aakash+Singh;Full+Stack+Developer;Building+AI+Automation+Tools;Voice+Controlled+Browser+Automation;Interested+in+AI+Agents+%26+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Aakash+Singh;Full+Stack+Developer;Building+AI+Automation+Tools;Voice+Controlled+Browser+Automation;Interested+in+AI+Agents+%26+Scalable+Systems" />
 </p>
 
 ---
@@ -16,33 +16,25 @@ I enjoy building systems that **automate real-world workflows, learn from user a
 
 # 🚀 My Major Projects
 
-### 🤖 Mime – AI Browser Automation Assistant
+## 🤖 Mime – AI Browser Automation Assistant
 
 Voice-controlled browser automation extension that executes complex web workflows hands-free.
 
-- Voice → Whisper transcription → command execution  
-- Intelligent parameter extraction engine  
-- Node.js + Python microservice architecture  
+- Developed a **voice-controlled browser automation extension** to execute complex web workflows hands-free  
+- Integrated **OpenAI Whisper** for privacy-first offline speech recognition  
+- Built an **intelligent parsing engine** to dynamically extract parameters and execute workflows  
+- Designed a **scalable microservice architecture** with communication between **Node.js and Python services**
 
 ---
 
-### 🌐 Smartfolio – AI Portfolio Generator
+## 🌐 Smartfolio – AI Portfolio Generator
 
 AI-powered developer portfolio generator.
 
-- Aggregates data from **GitHub, LinkedIn, LeetCode, and Codeforces**
-- AI-generated portfolio content using **Gemini**
-- Version-controlled editing workflow
-
----
-
-### 🎤 Voice Command NLP Pipeline
-
-Speech → Text → Command Understanding → Automated Execution
-
-- Whisper speech recognition  
-- Natural language command parsing  
-- Automated task execution  
+- Built an **AI-powered portfolio generator** that aggregates data from **LinkedIn, GitHub, LeetCode, and Codeforces**  
+- Integrated **Google Gemini** for AI-driven content generation and natural language portfolio refinement  
+- Implemented **GitHub OAuth with JWT authentication**  
+- Built a **version-controlled editing workflow (draft → confirm → revert)**
 
 ---
 
@@ -89,7 +81,7 @@ Speech → Text → Command Understanding → Automated Execution
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
 
 ---
 
@@ -105,6 +97,8 @@ Speech → Text → Command Understanding → Automated Execution
 
 # 📫 Connect With Me
 
-GitHub: https://github.com/Aakash-star320  
-LinkedIn: https://www.linkedin.com/in/aakash-singh-9a6b17322/
-Email: aakashsingh90per@gmail.com
+🐙 GitHub: https://github.com/Aakash-star320  
+
+💼 LinkedIn: https://www.linkedin.com/in/aakash-singh-9a6b17322/  
+
+📧 Email: aakashsingh90per@gmail.com
